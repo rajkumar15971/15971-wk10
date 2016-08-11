@@ -1,0 +1,27 @@
+{
+  
+"name": "json",
+ 
+ "version": "0.0.1",
+  
+
+  "repository":
+{
+"type":"git",
+"url":"https://git.heroku.com/calm-ridge-99153.git"
+},
+"engines":
+{
+"nde":"5.6.0"
+},
+"scripts":
+{
+"start":"node server.js 8000"
+
+
+},
+"main":"server.js",
+"author":"rajesh",
+"license":"ISC",
+"description":"sample json"
+}
